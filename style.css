@@ -1,0 +1,25 @@
+#heading{
+    text-align: center;
+}
+
+.value{
+    text-align: center;
+}
+
+#weight{
+    height: 30px;
+    font-size: large;
+    
+}
+#height{
+    height: 30px;
+    font-size: large;
+    
+}
+.result{
+    text-align: center;
+}
+
+.weight-guide{
+    text-align: center;
+}
